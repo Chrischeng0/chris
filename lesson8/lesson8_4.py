@@ -8,7 +8,7 @@ def playGame():
     count = 0
 
     print("============猜數字遊戲============\n\n")
-    print(f'要猜的數字是{guess}')
+    #print(f'要猜的數字是{guess}')
     while(True):
         try:
             keyin = int(input(f"猜數字範圍{min}~{max}:"))
