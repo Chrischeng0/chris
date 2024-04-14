@@ -1,6 +1,0 @@
-PyInputPlus
-pydantic
-requests
-pandas
-numpy
-matplotlib
